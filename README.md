@@ -2,7 +2,7 @@
 
 ## Description
 
-This week's challenge involves creating ***
+This week's challenge involves modifying starter code to create a simple task board application allowing a team to manage project tasks. By creating this project management application, teams are able to keep track of due dates and progress. This application runs in the browser and features dynamically updated HTML and CSS powered by jQuery. 
 
 ## User Story
 
@@ -33,11 +33,13 @@ THEN the saved tasks persist
 ```
 
 ## Mock Up
-The following image shows the web application's appearance: ***
+The following image shows the web application's appearance:
 
-![Shows first page of deployed web application in light mode entitled "My First Blog" as well as a form with labels and inputs for username, blog title, and blog content.](assets/images/Personal-blog-page-1-light.png)
+![Shows image of how a user can start by adding a task in the application's modal dialogue by completing the form.](assets/images/Task-board-modal-dialogue-image.png)
 
-![Shows second page of deployed web application in light mode with a list of blog post entries, including titles, content, and author of the posts.](assets/images/Personal-blog-page-2-light.png)
+![Shows image of the task board after tasks are initially added and all tasks are located within the "To Do" column. Also displays each task's background color based on Due Date.](assets/images/Task-board-tasks-todo.png)
+
+![Shows image of the draggable feature of the task board where one task is in each column ("To Do", "In Progress, and "Done") each with a background color that depends on the Due Date and changes if the task is complete.](assets/images/Task-board-draggable-feature-image.png)
 
 
 ## Link to Deployed Application 
@@ -46,10 +48,12 @@ The following image shows the web application's appearance: ***
 
 
 ## Credits
-***
+
+Code from Module 5 Mini Project: Interactive Project Management App as well as the solution was utilized throughout this challenge. 
 
 Used the following sources as tutorials and guidelines:
-https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+Day.js JavaScript library located at https://day.js.org/en/ for displaying dates.
 
 https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 
