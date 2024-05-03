@@ -33,7 +33,7 @@ THEN the saved tasks persist
 ```
 
 ## Mock Up
-The following image shows the web application's appearance:
+The following images shows the web application's appearance:
 
 ![Shows image of how a user can start by adding a task in the application's modal dialogue by completing the form.](assets/images/Task-board-modal-dialogue-image.png)
 
@@ -44,7 +44,7 @@ The following image shows the web application's appearance:
 
 ## Link to Deployed Application 
 
-***
+https://vaughanknouse.github.io/task-board-third-party-api/
 
 
 ## Credits
